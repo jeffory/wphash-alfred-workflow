@@ -1,24 +1,24 @@
-Wordpress Hashing for Alfred
+Wordpress Hash for Alfred
 ========================
 
-__Alfred3__ workflow to easily quickly generate Wordpress compatible password hashes to replace passwords in the database.
+An Alfred 3 workflow to easily quickly generate Wordpress compatible password hashes to replace passwords in the database.
 
 
 ## Requirements
-You need Alfred __3.5+__
+You need Alfred 3.5+ and a version of PHP 5/7+ installed and in the path
 
 ## Installation
-1. Download workflow from `package` folder, or [here](https://github.com/jeffory/wphash-alfred-workflow/blob/master/package/Wordpress%20Hash.alfredworkflow?raw=true)
+1. Download the latest workflow from the releases [here](https://github.com/jeffory/wphash-alfred-workflow/releases)
 2. Double click on downloaded file (Wordpress Hash.alfredworkflow)
 
 ## How to use
 * Open Alfred with your usual hotkey
 * Type `wphash` followed by the password you want
-* Copy the password into the database using your favourite database managemnt app
+* Copy the password into the database using your favourite database management app
 
 ## Thanks to
 
-* [Openwall Phpass](https://www.openwall.com/phpass/) for the hashing library
+* [Openwall Phpass](https://www.openwall.com/phpass/) for the hashing library (Public Domain licence) 
 
 ## License
 

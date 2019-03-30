@@ -181,6 +181,6 @@ echo trim($passwordHasher-&gt;HashPassword($query));</string>
 		</dict>
 	</dict>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/jeffory/wphash-alfred-workflow</string>
 </dict>
 </plist>
