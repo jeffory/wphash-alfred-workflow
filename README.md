@@ -1,0 +1,1 @@
+# wphash-alfred-workflow
